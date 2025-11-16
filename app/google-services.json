@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "707582917587",
+    "project_id": "lukyanov-music-app",
+    "storage_bucket": "lukyanov-music-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707582917587:android:6c0c1be38c70e229690d26",
+        "android_client_info": {
+          "package_name": "com.example.lukyanovmusicapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBytIDV-F4TumghCB0E70aOWAWEZt8lUhE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
