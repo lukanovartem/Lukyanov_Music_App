@@ -27,9 +27,7 @@ Android pet-проєкт музичного застосунку на **Kotlin +
 
 ---
 
-## 🖼️ Скріншоти (заглушки)
-
-> Заміна проста: поклади свої скріни в `screenshots/` з такими ж назвами або зміни шляхи нижче.
+## 🖼️ Скріншоти
 
 <p align="center">
   <img src="screenshots/01_login.png" width="220" />
@@ -43,20 +41,6 @@ Android pet-проєкт музичного застосунку на **Kotlin +
   <img src="screenshots/06_offline.png" width="220" />
 </p>
 
-<details>
-  <summary><b>Як швидко зробити заглушки (1 раз, щоб README виглядав повним)</b></summary>
-
-Створи папку `screenshots/` і додай 6 png-файлів з назвами:
-
-- `01_login.png`
-- `02_signup.png`
-- `03_home.png`
-- `04_playlist.png`
-- `05_liked.png`
-- `06_offline.png`
-
-Тимчасово можна покласти будь-які картинки, потім заміниш своїми.
-</details>
 
 ---
 
